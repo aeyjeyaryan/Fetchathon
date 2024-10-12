@@ -1,0 +1,14 @@
+{
+    "test_client": {
+        "identity_key": "06836143146fa33cbe3fd6bc08bceb5653a1fa8db14baa68b915d43c7f66ab4a",
+        "wallet_key": "SBZtlmwuQX+1hGsRDh/ijGW06xJLxKaNq+0lcbB9tto="
+    },
+    "assistant_agent": {
+        "identity_key": "dee47e64a530c83cf40d338be6ffe93988c7efc82cc6d16352b790ebc8dcc84f",
+        "wallet_key": "7izY2cIFNiA5kvnMsoStSbZlDIj7R4iARwqXWlOhVVQ="
+    },
+    "streamlit_client": {
+        "identity_key": "162850b484313ca9dd46fd7a28b9f89f722d5393b4575ef7c4df94c1bfedb6b0",
+        "wallet_key": "qHVvQWXDL5VOwj/Z7SzJAi03hovbBhzLK+oF9s7VvVw="
+    }
+}
